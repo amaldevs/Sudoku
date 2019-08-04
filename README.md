@@ -1,2 +1,2 @@
-# Sudoku
-Sudoku Game
+# Sudoku Game
+Coming soon!
